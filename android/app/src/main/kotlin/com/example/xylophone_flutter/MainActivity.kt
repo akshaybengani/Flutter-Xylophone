@@ -1,4 +1,4 @@
-package com.example.xylophone_flutter
+package com.akshaybengani.xylophone
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
